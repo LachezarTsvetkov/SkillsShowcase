@@ -1,0 +1,17 @@
+﻿  Card.cpp
+  Deck.cpp
+C:\Users\lache\Desktop\Codes and programs\Work\GitRep\Cpp\Others\YiGiOh_Logic\YiGiOh_Logic\Deck.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lache\Desktop\Codes and programs\Work\GitRep\Cpp\Others\YiGiOh_Logic\YiGiOh_Logic\Deck.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lache\Desktop\Codes and programs\Work\GitRep\Cpp\Others\YiGiOh_Logic\YiGiOh_Logic\Deck.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lache\Desktop\Codes and programs\Work\GitRep\Cpp\Others\YiGiOh_Logic\YiGiOh_Logic\Deck.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lache\Desktop\Codes and programs\Work\GitRep\Cpp\Others\YiGiOh_Logic\YiGiOh_Logic\Deck.cpp(147,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lache\Desktop\Codes and programs\Work\GitRep\Cpp\Others\YiGiOh_Logic\YiGiOh_Logic\Deck.cpp(174,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lache\Desktop\Codes and programs\Work\GitRep\Cpp\Others\YiGiOh_Logic\YiGiOh_Logic\Deck.cpp(196,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lache\Desktop\Codes and programs\Work\GitRep\Cpp\Others\YiGiOh_Logic\YiGiOh_Logic\Deck.cpp(213,20): warning C4018: '<': signed/unsigned mismatch
+  Duelist.cpp
+  MagicCard.cpp
+  main.cpp
+  MonsterCard.cpp
+  PendulumCard.cpp
+  Generating Code...
+  YiGiOh_Logic.vcxproj -> C:\Users\lache\Desktop\Codes and programs\Work\GitRep\Cpp\Others\YiGiOh_Logic\Debug\YiGiOh_Logic.exe
