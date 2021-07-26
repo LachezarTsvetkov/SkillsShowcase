@@ -82,6 +82,9 @@ int main()
 	firstDuelist.getDeck().printDeck();
 	MagicCard box("Mystic Box", "Destroy one monster.", 12, Type::SPELL);
 	firstDuelist.getDeck().changeMagicCard(box, 0);
+
+
+
 	*/
 
 	/*
