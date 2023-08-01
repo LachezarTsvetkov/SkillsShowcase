@@ -1,4 +1,7 @@
 # SkillsShowcase
-This repository is meant to showcase the different skills I have gathered throughout the years with different languages and data structures.
 
-This is currently a placeholder for the official README that I will one day include
+
+This is a placeholder README that will contain information on the Java branch, such as:
+- Brief explanation on the projects I have created
+- Where different resources are located
+
