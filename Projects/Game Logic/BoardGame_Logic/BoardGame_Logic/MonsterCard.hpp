@@ -10,6 +10,8 @@ public:
 
 	Card* clone() const;
 
+	bool operator==(const MonsterCard& rhs);
+
 	virtual void printCardInfo();
 
 	unsigned int getAttack();

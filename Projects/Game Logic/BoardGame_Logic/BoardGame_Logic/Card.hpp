@@ -28,6 +28,7 @@ public:
 	bool operator=(const Card& rhs);
 	bool operator>(const Card& rhs);
 	bool operator<(const Card& rhs);
+	bool operator==(const Card& rhs);
 
 	virtual Card* clone() const = 0;
 	virtual ~Card() = 0;

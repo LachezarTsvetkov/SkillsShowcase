@@ -21,6 +21,11 @@ bool Card::operator>(const Card& rhs)
 	return rarity > rhs.rarity;
 }
 
+bool Card::operator==(const Card& rhs)
+{
+    return name == rhs.name && rarity == rhs.rarity && description == rhs.description && cost == rhs.cost && skin == rhs.skin;
+}
+
 
 std::string Card::getName()
 {

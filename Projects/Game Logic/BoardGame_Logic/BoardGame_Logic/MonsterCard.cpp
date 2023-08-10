@@ -10,6 +10,11 @@ Card* MonsterCard::clone() const
 	return new MonsterCard(*this);
 }
 
+bool MonsterCard::operator==(const MonsterCard& rhs)
+{
+
+}
+
 void MonsterCard::printCardInfo()
 {
 	std::cout << "Name: " + name + "\nDescription: " + description + "\nRarity: " + getRarityName() + "\nAttack: " + std::to_string(attack) + "\nDefence: " + std::to_string(defence) + "\n";

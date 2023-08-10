@@ -13,15 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Cards">
+      <UniqueIdentifier>{9663f0fa-185c-4f9a-a043-1245ca97dd9b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Card.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Cards</Filter>
     </ClCompile>
     <ClCompile Include="MonsterCard.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Cards</Filter>
     </ClCompile>
     <ClCompile Include="SpellCard.cpp">
+      <Filter>Source Files\Cards</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Deck.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -33,6 +42,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SpellCard.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Deck.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
